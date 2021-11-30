@@ -27,7 +27,7 @@ let isUSerPro = false;
 // Type: String
 // explicit
 let username: string = "Will Martinez";
-username = "test";
+username = "William";
 // username = true;  // Error Type 'boolean' is not assignable to type 'string'
 
 // Template String
